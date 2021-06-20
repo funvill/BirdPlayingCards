@@ -9,7 +9,7 @@
    height="355.20001"
    viewBox="0 0 261.12 355.20001"
    sodipodi:docname="diamond-3--Belted-Kingfisher-2.7.svg"
-   inkscape:export-filename="C:\Users\funvill\Documents\git\BirdPlayingCards\diamond-3--Belted-Kingfisher.png"
+   inkscape:export-filename="diamond-3--Belted-Kingfisher.png"
    inkscape:export-xdpi="600"
    inkscape:export-ydpi="600"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
@@ -74,9 +74,9 @@
      inkscape:cx="169.74451"
      inkscape:cy="159.67492"
      inkscape:window-width="1343"
-     inkscape:window-height="1081"
+     inkscape:window-height="1041"
      inkscape:window-x="1887"
-     inkscape:window-y="1034"
+     inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="g38964-6"><sodipodi:guide
        position="37.796924,273.40258"
@@ -231,9 +231,9 @@
        style="font-size:96px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect4105)"><tspan
          x="210.35352"
          y="288.11301"
-         id="tspan205"><tspan
+         id="tspan129"><tspan
            dx="0 94.921875 26.34375"
-           id="tspan203">Win</tspan></tspan></text><g
+           id="tspan127">Win</tspan></tspan></text><g
        id="g47081"
        transform="translate(-330.69102,-37.368222)"><g
          id="g38964-6"
@@ -248,4 +248,7 @@
              id="tspan30892-8-2-4-0-7"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;font-family:Elephant;-inkscape-font-specification:Elephant;text-align:end;text-anchor:end;fill:#ff0000;stroke:#000000;stroke-width:0.10275;stroke-miterlimit:4;stroke-dasharray:none"
              x="267.7153"
-             y="478.34924">48 - 58 cm</tspan></text></g></g></g></svg>
+             y="478.34924">48 - 58 cm</tspan></text><path
+           id="path454"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.999998"
+           d="M 307.17092,300.7675 V 34.368076 H 503.01174 V 300.7675 Z m 20.45215,-13.59961 h 154.93652 c 4.48391,0 8.15479,-3.66991 8.15479,-8.15479 V 56.121006 c 0,-4.48487 -3.67088,-8.15479 -8.15479,-8.15479 H 327.62307 c -4.48486,0 -8.15478,3.66992 -8.15478,8.15479 V 279.0131 c 0,4.48488 3.66992,8.15479 8.15478,8.15479 z" /></g></g></g></svg>
